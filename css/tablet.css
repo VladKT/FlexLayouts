@@ -1,0 +1,31 @@
+.sec-container {
+    display: flex;
+    /* height: 100vw; */
+    flex-direction: row;
+    flex-grow: 2;
+    flex-wrap: wrap;
+}
+
+.sign-up {
+    background-color: lightskyblue;
+    /* flex-grow: 1; */
+    width: 50%;
+}
+
+.feature1 {
+    background-color: lightsalmon;
+    /* flex-grow: 1; */
+    width: 50%;
+}
+
+.feature2 {
+    background-color: lightpink;
+    /* flex-grow: 1; */
+    width: 50%;
+}
+
+.feature3 {
+    background-color: lightslategrey;
+    /* flex-grow: 1; */
+    width: 50%;
+}

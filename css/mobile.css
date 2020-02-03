@@ -1,0 +1,41 @@
+.main-container {
+    display: flex;
+    height: 100vw;
+    flex-direction: column;
+}
+
+.sec-container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 4;
+}
+
+.header {
+    background-color:lightblue;
+    flex-grow: 1;
+}
+
+.content {
+    background-color: lightgray;
+    flex-grow: 2;
+}
+
+.sign-up {
+    background-color: lightskyblue;
+    flex-grow: 1;
+}
+
+.feature1 {
+    background-color: lightsalmon;
+    flex-grow: 1;
+}
+
+.feature2 {
+    background-color: lightpink;
+    flex-grow: 1;
+}
+
+.feature3 {
+    background-color: lightslategrey;
+    flex-grow: 1;
+}
